@@ -1,0 +1,25 @@
+{
+  "courseID": 1081,
+  "isShortcutMode": false,
+  "lessonProgress": [
+    {
+      "activeQuizID": 5631,
+      "attempt": 1,
+      "isStarted": false,
+      "lessonID": 2705,
+      "progressDate": "2023-01-16T05:18:58",
+      "score": 5
+    }
+  ],
+  "pointExchanges": [],
+  "quizProgress": [
+    {
+      "attempt": 1,
+      "progressDate": "2023-01-16T05:18:58",
+      "quizID": 5634,
+      "score": 1.6666666,
+      "time": 5
+    }
+  ],
+  "timezone": 0
+}
