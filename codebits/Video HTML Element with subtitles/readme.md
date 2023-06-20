@@ -4,4 +4,4 @@ Note that crossorigin="anonymous" is attribute is absent (deleted). The source c
 
 To preview this site, visit https://solomonirailoa.github.io/sololearn/codebits/Video%20HTML%20Element%20with%20subtitles/index.html
 
-To view the output of Web Code.
+.. if you want to see the output of this Web Code.
